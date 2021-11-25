@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:T4E1 Fim de Jogo
+#EXTINF:-1,T4E1 Fim de Jogo
 https://www.googleapis.com/drive/v3/files/1tWqmTiCM0hwN_XxNYij9NyQeENWI9TO-?key=AIzaSyCRzXhjqtw7v3ql8pg6BqtD9swL8DuZKSI&alt=media
 #EXTINF:-1,T4E2 Casamento do Berlim
 https://www.googleapis.com/drive/v3/files/1B3rrbRnZjzVaRwPi6apIUVz_mNz9dwNX?key=AIzaSyCRzXhjqtw7v3ql8pg6BqtD9swL8DuZKSI&alt=media
@@ -19,6 +19,6 @@ https://www.googleapis.com/drive/v3/files/1LNpzLtI106q2DqWyES1XsfHezri8A6pa?key=
 https://www.googleapis.com/drive/v3/files/13a9XlD1i6Q1XTI3716ny2UN_LwQ8Ga9R?key=AIzaSyCRzXhjqtw7v3ql8pg6BqtD9swL8DuZKSI&alt=media
 #EXTINF:Bonus - test
 https://media.publit.io/download/Video-Veritas.mp4?at=eyJpdiI6IlV0RnIrM0J3OHRGYnZKcTJnbnBsXC9nPT0iLCJ2YWx1ZSI6InUzTXdCUGplUWoydWEwSEptXC90bzZuWjFUTzdrc2xUenIrVGdrazlCTlZvPSIsIm1hYyI6IjhkZTc5NGI4NDY1YjMyOGM5ODljYmZjNjJjNWI4N2NmMTRiYjE5YTU5MDk1NGVjMzFmMThiYzkxNmExMWNjODAifQ==
-#EXTINF:0,Bonus - test2
+#EXTINF:-1,Bonus - test2
 https://media.publit.io/file/Detras-de-Camaras-MSC.mp4
 
